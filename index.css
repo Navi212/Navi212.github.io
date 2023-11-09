@@ -22,6 +22,31 @@ a
     text-decoration: none;
 }
 
+.sections
+{
+    display: flex;
+    flex-direction: row;
+    height: 800px;
+}
+
+.div-1
+{
+    width: 40%;
+    height: 80%;
+}
+
+.div-2
+{
+    width: 50%;
+    height: 80%;
+}
+
+.info
+{
+    height: 40vh;
+    padding: 30px;
+
+}
 .footer
 {
     position: fixed;
