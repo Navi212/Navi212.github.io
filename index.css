@@ -1,0 +1,33 @@
+*
+{
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.navbar
+{
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+    padding: 20px;
+}
+
+.navbar li
+{
+    list-style-type: none;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+.footer
+{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: aquamarine;
+}
