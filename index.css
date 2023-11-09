@@ -26,7 +26,7 @@ a
 {
     display: flex;
     flex-direction: row;
-    height: 800px;
+    height: 600px;
 }
 
 .div-1
@@ -45,14 +45,19 @@ a
 {
     height: 40vh;
     padding: 30px;
+    text-align: center;
 
 }
+
+
 .footer
 {
     position: fixed;
+    height: 50px;
     left: 0;
     bottom: 0;
     width: 100%;
     text-align: center;
+    line-height: 50px;
     background-color: aquamarine;
 }
